@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/saksham_108" target="blank"><img src="https://img.shields.io/twitter/follow/saksham_108?logo=twitter&style=for-the-badge" alt="saksham_108" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently Full Stack Projects**
 
 - 💬 Ask me about **React, Express**
 
